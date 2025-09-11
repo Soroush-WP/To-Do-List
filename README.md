@@ -25,6 +25,4 @@ TaskMaster is a **highly advanced, modern To-Do List app** designed to make mana
 
 ## 🚀 Getting Started
 
-1. **Clone the repository:**
-```bash
-git clone https://github.com/yourusername/taskmaster.git
+  1 . Visit Here! https://soroushwp.github.io/To-Do-List
